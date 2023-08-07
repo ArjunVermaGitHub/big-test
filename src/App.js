@@ -6,7 +6,7 @@ function App() {
 
   return (
     <div className="App">
-      <EngagementMessagesOverTime messageCountList={messageCountList} channels={channels}/>
+      <EngagementMessagesOverTime messageCountList={messageCountList} channels={channels} />
     </div>
   );
 }
